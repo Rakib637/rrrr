@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+.off{
+    background-color:rgb(74, 173, 43);
+    display: flex;
+    width: 90%;
+    
+}
+.off ul li{
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+}
+.off ul li a{
+    text-decoration: none;
+}
+.okk{
+    background-color: coral;
+}
